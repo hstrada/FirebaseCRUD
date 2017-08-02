@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "435904251365",
+    "firebase_url": "https://mbaas-731da.firebaseio.com",
+    "project_id": "mbaas-731da",
+    "storage_bucket": "mbaas-731da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435904251365:android:b1d49e961d1a110c",
+        "android_client_info": {
+          "package_name": "com.example.firebasecrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435904251365-3jsoar3a18g8fbnj2l09jv059t7i15fb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_zFCLUdCWMQ4GdEjwra8fcOuwVeMxIzw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
